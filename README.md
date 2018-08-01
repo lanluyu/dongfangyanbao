@@ -19,4 +19,4 @@
 爬取结果
 -
 在东方财富网上总共爬取了16791条个股研报信息。结果由爬虫先存储在MongoDB中，再导出为Excle文件。部分数据如下截图:<br>
-![研报详情截图](https://github.com/lanluyu/jingdong/blob/master/phone.PNG)
+![研报详情截图](https://github.com/lanluyu/dongfangyanbao/blob/master/%E9%83%A8%E5%88%86%E7%A0%94%E6%8A%A5%E4%BF%A1%E6%81%AF.PNG)
